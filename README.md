@@ -1,6 +1,6 @@
 # Student-Grievance-System
 
-This was a project created for Institution to manage the complaints filed by the Students.
+This project created for Institution to manage the complaints filed by the Students.
 
 •In college if anyone wants to raise complaint then one has to write on a paper and wait for the respond to whom it’s
 addressed.
