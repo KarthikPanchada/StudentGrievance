@@ -1,19 +1,19 @@
 # Student-Grievance-System
 
-This project created for Institution to manage the complaints filed by the Students.
+•This project was created for the Institution to manage the complaints filed by the Students.
 
-•In college if anyone wants to raise complaint then one has to write on a paper and wait for the respond to whom it’s
+•In college if anyone wants to raise a complaint then one has to write on a paper and wait for the respond to whom it’s
 addressed.
 
-• Student has to signup/login and raise complain about the issues he finds.
+• Student has to sign up/log in and complain about the issues he finds.
 
-• Admin has to login through his login id and can view the complaints that has been raised by the students.
+• Admin has to log in through his login ID and can view the complaints that the students have raised.
 
-• Based on the categories Admin can filter the complaints as Department level Or Institute Level .
+• Based on the categories Admin can filter the complaints at the Department level Or Institute Level.
 
-• Later, Admin can sort complaints based on some priorities or keywords.
+• Later, the Admin can sort complaints based on some priorities or keywords.
 
-• In this system, the admin can view the complaint details and takes further actions required accordingly. Each complaint
+• In this system, the admin can view the complaint details and take further actions required accordingly. Each complaint
 will have a definite time limit associated with it. 
 
 • The student gets the notification whether the complaint is IN PROCESS or it has been CLOSED by the Admin ON
