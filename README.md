@@ -19,5 +19,5 @@ will have a definite time limit associated with it.
 • The student gets the notification whether the complaint is IN PROCESS or it has been CLOSED by the Admin ON
 Dashboard.
 
-• Student needs to check the complaint status whereas Admin needs to check the complaint regularly to see whether new
+• Student needs to check the complaint status where as Admin needs to check the complaint regularly to see whether new
 complaint has been filed or not.
