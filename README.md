@@ -1,11 +1,11 @@
 # Student-Grievance-System
 
-•This project was created for the Institution to manage the complaints filed by the Students.
+This project was created for the Institution to manage the complaints filed by the Students.
 
-•In college if anyone wants to raise a complaint then one has to write on a paper and wait for the respond to whom it’s
+• In college if anyone wants to raise a complaint then one has to write on a paper and wait for the response to whom it’s
 addressed.
 
-• Student has to sign up/log in and complain about the issues he finds.
+• Now, Student has to sign up/log in and complain about the issues he finds.
 
 • Admin has to log in through his login ID and can view the complaints that the students have raised.
 
